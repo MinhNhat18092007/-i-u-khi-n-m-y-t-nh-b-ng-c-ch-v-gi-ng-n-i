@@ -1,1 +1,1 @@
-# -i-u-khi-n-m-y-t-nh-b-ng-c-ch-v-gi-ng-n-i
+Điều khiển máy tính thông qua cử chỉ tay và giọng nói
